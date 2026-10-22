@@ -17,3 +17,5 @@ ketvirtas bandymas
 penktas
 666
 666 pakeitimas sakoje 1
+777
+7 bandymas
